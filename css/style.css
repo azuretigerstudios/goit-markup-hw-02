@@ -158,19 +158,19 @@ body {
   }
   #our_portfolio li {
   }
-  .portfolio-title {
+  .portfolioTitle {
     line-height: 1.11;
     text-transform: capitalize;
     color: #2e2f42;
     letter-spacing: 0.02em;
   }
-  .portfolio-sub-title {
+  .portfolioSubtitle {
     font-weight: 500;
     line-height: 1.2;
     color: #2e2f42;
     letter-spacing: 0.02em;
   }
-  .portfolio-content {
+  .portfolioContent {
     letter-spacing: 0.02em;
   }
   /*FOOTER*/
@@ -195,6 +195,6 @@ body {
     color: #4d5ae5;
     text-transform: uppercase;
   }
-  .footer_logo_second {
+  .second-footer-logo {
     color: #f4f4fd;
   }
