@@ -153,7 +153,7 @@ body {
   }
   
   /*Portfolio*/
-  #our-Portfolio {
+  #our-portfolio {
     text-align: center;
   }
   #our_portfolio li {
@@ -164,13 +164,13 @@ body {
     color: #2e2f42;
     letter-spacing: 0.02em;
   }
-  .portfolio-Subtitle {
+  .portfolio-sub-title {
     font-weight: 500;
     line-height: 1.2;
     color: #2e2f42;
     letter-spacing: 0.02em;
   }
-  .portfolio-Content {
+  .portfolio-content {
     letter-spacing: 0.02em;
   }
   /*FOOTER*/
