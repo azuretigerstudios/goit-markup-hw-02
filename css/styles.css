@@ -152,25 +152,25 @@ body {
     text-align: center;
   }
   
-  /*OUR PORTFOLIO*/
-  #ourPortfolio {
+  /*Portfolio*/
+  #our-Portfolio {
     text-align: center;
   }
   #our_portfolio li {
   }
-  .portfolioTitle {
+  .portfolio-Title {
     line-height: 1.11;
     text-transform: capitalize;
     color: #2e2f42;
     letter-spacing: 0.02em;
   }
-  .portfolioSubtitle {
+  .portfolio-Subtitle {
     font-weight: 500;
     line-height: 1.2;
     color: #2e2f42;
     letter-spacing: 0.02em;
   }
-  .portfolioContent {
+  .portfolio-Content {
     letter-spacing: 0.02em;
   }
   /*FOOTER*/
