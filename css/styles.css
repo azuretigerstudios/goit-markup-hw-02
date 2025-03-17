@@ -121,10 +121,10 @@ body {
   }
   
   
-  .our_team {
+  .our-team {
     background-color: #f4f4fd;
   }
-  .our_team_title {
+  .our-team-title {
     line-height: 1.11;
     text-align: center;
     text-transform: capitalize;
@@ -134,13 +134,13 @@ body {
   .our_team_list {
     
   }
-  .ourTeamSubtitle {
+  .our-Team-Subtitle {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
   }
-  .ourTeamContent {
+  .our-Team-Content {
     font-size: 16px;
     letter-spacing: 0.02em;
   }
