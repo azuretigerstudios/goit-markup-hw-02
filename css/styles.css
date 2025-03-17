@@ -131,8 +131,8 @@ body {
     color: #2e2f42;
     letter-spacing: 0.02em;
   }
-  .our_team_list {
-    
+  .our-team-list {
+    background-color: #ffffff;
   }
   .our-team-subtitle {
     font-weight: 500;
